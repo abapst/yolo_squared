@@ -9,7 +9,7 @@ Requirements:
 
   - GCC >= 6.0
   - CUDA >= 7.5
-  Optional:
+Optional:
   - CUDNN >= 5.0
 
 ## Install with the following commands
