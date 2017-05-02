@@ -1,0 +1,4 @@
+models/tiny-yolo-coco/tiny-yolo-coco.cfg
+models/tiny-yolo-coco/tiny-yolo-coco.weights
+models/tiny-yolo-coco/coco.names
+0.4

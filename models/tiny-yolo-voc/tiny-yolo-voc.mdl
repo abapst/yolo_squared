@@ -1,0 +1,4 @@
+models/tiny-yolo-voc/tiny-yolo-voc.cfg
+models/tiny-yolo-voc/tiny-yolo-voc.weights
+models/tiny-yolo-voc/voc.names
+0.4

@@ -1,0 +1,4 @@
+models/yolo-voc/yolo-voc.cfg
+models/yolo-voc/yolo-voc.weights
+models/yolo-voc/voc.names
+.4

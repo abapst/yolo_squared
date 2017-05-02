@@ -1,0 +1,4 @@
+models/yolo-coco/yolo-coco.cfg
+models/yolo-coco/yolo-coco.weights
+models/yolo-coco/coco.names
+.4
