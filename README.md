@@ -1,6 +1,7 @@
 # yolo_squared
 
-Fast object detection using the YOLO architecture.
+Fast object detection using the [YOLO 9000](https://arxiv.org/abs/1612.08242) architecture. YOLO is a very fast object detection network that can run at different resolutions, allowing users to tune the tradeoff between hardware constraints and accuracy (higher accuracy = slower inference).
+
 This repo is a fork of [Darknet](https://github.com/pjreddie/darknet)
 
 I've streamlined most of the front-end code and made the API easier to understand. Video and image streaming is now done using [frame_io](https://github.com/abapst/frame_io) library. OpenCV is no longer a requirement.
